@@ -131,6 +131,8 @@ margin-bottom: 25px;
 	justify-content: center;
 	/*flex-direction: column;*/
 	flex-wrap: wrap;
+	margin-top: 250px;
+	flex-direction:row;
 }
 .fan1{
 	width: 100px;
@@ -161,5 +163,8 @@ margin-bottom: 25px;
 	border-radius: 23px;
 	font-size: 15px;
 
+}
+.final{
+	flex-direction:column;
 }
 /**/
